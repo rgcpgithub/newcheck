@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM centos:8
 
 ENV PATH=$PATH:/opt/java/jdk-15.0.2/bin
 
